@@ -2,7 +2,8 @@
 
 
 class Error(Exception):
-	pass
+    pass
 
 class NotLexeme(Error):
-	pass
+    pass
+    
